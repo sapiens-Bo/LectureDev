@@ -1,0 +1,324 @@
+{
+  "main": {
+    "id": "812f5d56ef5d30b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aa2939f9913d827",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f3d68182d1ea3b9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d984e65f0d52b2cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Пакеты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4c3850dd3fa42be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Импорт стандартных пакетов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5150dd186a8ccb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Импорт стандартных пакетов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2c27c8da419be27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Импорт стандартных пакетов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fea06c91c1f9bb54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go fmt - форматирование кода.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2e87c3acf3ce297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go vet - статический анализ кода.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b45c07f4f6eb079e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unsafe Pointer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b694523dbb89242c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Пакеты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e633470aea9a8e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Const.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62477f40c6a5b5eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bitwise operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43f83a488abf788d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go fmt - форматирование кода.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1153f2fcc2d94adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go vet - статический анализ кода.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "649d60d008fbbc61",
+    "type": "split",
+    "children": [
+      {
+        "id": "803fcb880938b972",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d1a9fdbc61b1401",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b2aface4c1ce271",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "635a216edbcf5273",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d3d9b2e7ab72ed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "291c884665426e67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfe4b237e33cf73b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "go vet - статический анализ кода.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f039c546a9bf5e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "go vet - статический анализ кода.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "597a4e7cac194427",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9cf51eb16c191148",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "go vet - статический анализ кода.md"
+              }
+            }
+          },
+          {
+            "id": "fdfb2c6ad55ff106",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1153f2fcc2d94adf",
+  "lastOpenFiles": [
+    "Bitwise operations.md",
+    "Дополнительный код.md",
+    "Импорт внешних пакетов.md",
+    "Импорт стандартных пакетов.md",
+    "Пакеты.md",
+    "Вопросы.md",
+    "unsafe Pointer.md",
+    "Go Toolchain.md",
+    "go fmt - форматирование кода.md",
+    "dlv debug - real-time debugging.md",
+    "!.md",
+    "go vet - статический анализ кода.md",
+    "init & main.md",
+    "Const.md",
+    "[Дополнительный.md",
+    "[[Дополнительный.md",
+    "().md",
+    "![[Screenshot-6.png]].md",
+    "cae90ab66f57e7f17b202a8798d80f3b.png.md",
+    "Screenshot-6.png",
+    "images/QueuePackage.png",
+    "images"
+  ]
+}
