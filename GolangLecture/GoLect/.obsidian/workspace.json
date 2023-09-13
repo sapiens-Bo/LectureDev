@@ -153,14 +153,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go vet - статический анализ кода.md",
+                "file": "Bitwise operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baf6ed5cb3d5a02b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Целочисленные типы.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -226,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go vet - статический анализ кода.md",
+                "file": "Целочисленные типы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "go vet - статический анализ кода.md",
+                "file": "Целочисленные типы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go vet - статический анализ кода.md"
+                "file": "Целочисленные типы.md"
               }
             }
           },
@@ -296,9 +308,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1153f2fcc2d94adf",
+  "active": "baf6ed5cb3d5a02b",
   "lastOpenFiles": [
     "Bitwise operations.md",
+    "Целочисленные типы.md",
+    "go vet - статический анализ кода.md",
     "Дополнительный код.md",
     "Импорт внешних пакетов.md",
     "Импорт стандартных пакетов.md",
@@ -309,7 +323,6 @@
     "go fmt - форматирование кода.md",
     "dlv debug - real-time debugging.md",
     "!.md",
-    "go vet - статический анализ кода.md",
     "init & main.md",
     "Const.md",
     "[Дополнительный.md",
