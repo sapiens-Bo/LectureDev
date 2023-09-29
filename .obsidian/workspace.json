@@ -4,95 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d54ec969459eddfe",
+        "id": "c602661c38027bbe",
         "type": "tabs",
         "children": [
           {
-            "id": "0010bd17dc4b71dc",
+            "id": "c38143f0dde4015f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLect/Types/Bitwise operations.md",
+                "file": "Python+Django/WebTech/HTML.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "547f7a6e3f1350b6",
+            "id": "cd082ebad50668d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLect/Packages/Импорт внешних пакетов.md",
+                "file": "Python+Django/WebTech/CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "033bff213585d538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GoLect/Types/Числа с плавающей точкой.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cc00ff86c306103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GoLect/Types/Bitwise operations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b71f6bfee07f7225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GoLect/Func/Обработка ошибок функций.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ab10a04307b5745",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GoLect/Func/Применение анонимных функций.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a36e314a45e01c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GoLect/Func/Замыкание.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c27b53a82743554",
+            "id": "d8826ffac58b5e70",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -100,103 +40,19 @@
             }
           },
           {
-            "id": "22907f5c504da7c8",
+            "id": "14c304994bba319c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLect/Вопросы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1c453c1e80b65bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GoLect/Func/Табличное тестирование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "617e4573297c4531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GoLect/Func/Инициализация данных теста.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "815a41c0fe6e1a7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GoLect/Func/Бенчмарк.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9690331bce748eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GoLect/Func/Оптимизация с бенчмарком.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3771c8cec0f6c0a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GoLect/Func/Оптимизация с бенчмарком.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c8dad5c8357b51c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GoLect/Types/Примитивные типы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "402423ec87130f76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GoLect/Types/unsafe.Sizeof.md",
+                "file": "Python+Django/Bootstrap/Bootstrap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "400bebc56f62126b",
@@ -262,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoLect/Func/Оптимизация с бенчмарком.md",
+                "file": "Python+Django/Bootstrap/Bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoLect/Func/Оптимизация с бенчмарком.md",
+                "file": "Python+Django/Bootstrap/Bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoLect/Func/Оптимизация с бенчмарком.md"
+                "file": "Python+Django/Bootstrap/Bootstrap.md"
               }
             }
           }
@@ -323,40 +179,53 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3771c8cec0f6c0a6",
+  "active": "14c304994bba319c",
   "lastOpenFiles": [
-    "GoLect/Func/Обработка ошибок функций.md",
-    "GoLect/Func/Инициализация данных теста.md",
+    "Python+Django/Bootstrap/Bootstrap.md",
+    "Python+Django/Bootstrap",
+    "Python+Django/WebTech/JavaScript.md",
+    "Python+Django/WebTech/CSS.md",
+    "Python+Django/WebTech/Django&Bootstrap.md",
+    "Python+Django/WebTech/HTML.md",
+    "Python+Django/WebTech/База о веб.md",
+    "GoLect/Вопросы.md",
+    "GoLect/Func/Применение анонимных функций.md",
+    "GoLect/Func/Функции.md",
+    "GoLect/Types/unsafe.Sizeof.md",
+    "GoLect/Types/Примитивные типы.md",
+    "GoLect/Types/Дополнительный код.md",
+    "GoLect/Func/Оптимизация с бенчмарком.md",
     "GoLect/Func/Бенчмарк.md",
+    "GoLect/Func/Инициализация данных теста.md",
+    "GoLect/Func/Табличное тестирование.md",
+    "Python+Django/WebTech/src/Web_tech.canvas",
+    "Python+Django/WebTech/src/WebTech.png",
+    "Python+Django/WebTech/src/Взаимодействие_с_динамическим_сайтом.canvas",
+    "Python+Django/WebTech/src/DynamicSite.png",
+    "Схема_клиент_статический_сайт.png.md",
+    "Python+Django/WebTech/src/2023-09-26_13-18.png",
+    "Python+Django/WebTech/src/Схема клиент <-> статический сайт.canvas",
+    "Python+Django/WebTech/src/ClientToSite.png",
+    "Python+Django/WebTech/src/Схема_клиент_статический_сайт.png",
+    "!./src/Схема.md",
+    "!./src",
+    "!.",
+    "Python+Django/WebTech/src",
+    "Python+Django/WebTech",
+    "Python+Django",
+    "GoLect/Func/Обработка ошибок функций.md",
     "GoLect/Types/Const.md",
     "GoLect/Types/Bitwise operations.md",
     "GoLect/Types/unsafe Pointer.md",
-    "GoLect/Types/unsafe.Sizeof.md",
     "GoLect/Func/init & main.md",
     "GoLect/Func/Юнит-тестирование.md",
-    "GoLect/Func/Функции.md",
-    "GoLect/Func/Применение анонимных функций.md",
     "GoLect/Func/Замыкание.md",
-    "GoLect/Types/Примитивные типы.md",
-    "GoLect/Types/Дополнительный код.md",
     "GoLect/Types/Целочисленные типы.md",
-    "GoLect/Types/Числа с плавающей точкой.md",
-    "GoLect/Вопросы.md",
-    "GoLect/Func/Оптимизация с бенчмарком.md",
-    "GoLect/Packages/Импорт внешних пакетов.md",
-    "GoLect/Tools/dlv debug - real-time debugging.md",
     "GoLect/Packages",
-    "GoLect/Packages/Пакеты.md",
     "GoLect/Tools",
-    "GoLect/Packages/Импорт стандартных пакетов.md",
-    "GoLect/Tools/go vet - статический анализ кода.md",
     "GoLect/Types",
-    "GoLect/Func/Тестирование main.md",
-    "GoLect/Func/Табличное тестирование.md",
     "GoLect/Func",
     "GoLect/images/QueuePackage.png",
-    "GoLect/Types/Float Bitwise.md",
-    "GoLect/images/Pasted image 20230915074944.png",
-    "Notes"
+    "GoLect/images/Pasted image 20230915074944.png"
   ]
 }

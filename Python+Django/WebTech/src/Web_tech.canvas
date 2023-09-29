@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"b4356e05b612b840","type":"group","x":-485,"y":-320,"width":1125,"height":360,"color":"4","label":"Full Stack Web Development"},
+		{"id":"cd1999611b9e6bb3","type":"group","x":-465,"y":-220,"width":526,"height":240,"color":"5","label":"Bootstrap"},
+		{"id":"b1e89b66a30e0f23","type":"group","x":140,"y":-220,"width":480,"height":230,"color":"2","label":"Django"},
+		{"id":"9864d24e18004b0d","type":"text","text":"Front End","x":-300,"y":-200,"width":151,"height":60,"color":"5"},
+		{"id":"95e2169aaa83de54","type":"text","text":"CSS","x":-280,"y":-70,"width":111,"height":60,"color":"6"},
+		{"id":"c1f275bcc3365345","type":"text","text":"HTML","x":-440,"y":-70,"width":125,"height":60,"color":"6"},
+		{"id":"7d977048bfd48c80","type":"text","text":"JavaScript","x":-120,"y":-70,"width":161,"height":60,"color":"6"},
+		{"id":"9d3e5a9b734136e5","type":"text","text":"Back End","x":294,"y":-200,"width":149,"height":60},
+		{"id":"2781101152c45bf6","type":"text","text":"Server","x":160,"y":-70,"width":134,"height":60},
+		{"id":"ef05789dc3d549ca","type":"text","text":"Database","x":443,"y":-70,"width":157,"height":60}
+	],
+	"edges":[
+		{"id":"52364eb37c379b2e","fromNode":"9864d24e18004b0d","fromSide":"bottom","toNode":"c1f275bcc3365345","toSide":"top"},
+		{"id":"95f6e7db9eeae811","fromNode":"9864d24e18004b0d","fromSide":"bottom","toNode":"95e2169aaa83de54","toSide":"top"},
+		{"id":"7071b31b4ff25885","fromNode":"9864d24e18004b0d","fromSide":"bottom","toNode":"7d977048bfd48c80","toSide":"top"},
+		{"id":"30f5ab15319e97c2","fromNode":"9d3e5a9b734136e5","fromSide":"bottom","toNode":"2781101152c45bf6","toSide":"top"},
+		{"id":"42876fda5128c64d","fromNode":"9d3e5a9b734136e5","fromSide":"bottom","toNode":"ef05789dc3d549ca","toSide":"top"}
+	]
+}

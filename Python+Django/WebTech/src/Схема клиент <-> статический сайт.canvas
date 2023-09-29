@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"e74a621ae2272ac8","x":187,"y":49,"width":250,"height":60,"type":"text","text":""},
+		{"id":"4810326fbdd1e922","type":"text","text":"Клиент","x":-360,"y":-200,"width":250,"height":60},
+		{"id":"675fb135948f0fcc","type":"text","text":"Сервер","x":60,"y":-195,"width":250,"height":50},
+		{"id":"6e19c19102289bec","type":"text","text":"Сайт","x":420,"y":-200,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"5db6c547625678e3","fromNode":"4810326fbdd1e922","fromSide":"top","toNode":"675fb135948f0fcc","toSide":"top","label":"Запрос"},
+		{"id":"259f7354f5a74b49","fromNode":"675fb135948f0fcc","fromSide":"right","toNode":"6e19c19102289bec","toSide":"left"},
+		{"id":"259f33c9eed67300","fromNode":"6e19c19102289bec","fromSide":"left","toNode":"675fb135948f0fcc","toSide":"right"},
+		{"id":"83277e3c7c3dbff0","fromNode":"675fb135948f0fcc","fromSide":"bottom","toNode":"4810326fbdd1e922","toSide":"bottom","color":"1","label":"Ответ"}
+	]
+}
