@@ -50,9 +50,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51455a19c77d3295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python+Django/Bootstrap/Bootstrap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1735d7840725636e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python+Django/Bootstrap/Получение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -102,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "400bebc56f62126b",
@@ -118,8 +143,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python+Django/Bootstrap/Bootstrap.md",
-                "collapseAll": false,
+                "file": "Python+Django/Bootstrap/Получение.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -135,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python+Django/Bootstrap/Bootstrap.md",
+                "file": "Python+Django/Bootstrap/Получение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,15 +183,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python+Django/Bootstrap/Bootstrap.md"
+                "file": "Python+Django/Bootstrap/Получение.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -179,9 +205,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "14c304994bba319c",
+  "active": "1735d7840725636e",
   "lastOpenFiles": [
     "Python+Django/Bootstrap/Bootstrap.md",
+    "Python+Django/Bootstrap/Получение.md",
     "Python+Django/Bootstrap",
     "Python+Django/WebTech/JavaScript.md",
     "Python+Django/WebTech/CSS.md",
@@ -220,7 +247,6 @@
     "GoLect/Func/init & main.md",
     "GoLect/Func/Юнит-тестирование.md",
     "GoLect/Func/Замыкание.md",
-    "GoLect/Types/Целочисленные типы.md",
     "GoLect/Packages",
     "GoLect/Tools",
     "GoLect/Types",
